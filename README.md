@@ -1,9 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No:212224040350
+# Name:Thamizh.S
+# Date:15.05.2025
 
 # AIM:
 To develop the Hospital Management System using Star UML.
@@ -40,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+![378048169-e884424e-59f1-4f5d-a107-4f4ffd60511d](https://github.com/user-attachments/assets/79b1a904-ae80-4c02-a656-b17198245f2e)
 
 
 
@@ -58,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![378048218-c966c7c8-e267-4ea8-a8f5-474ea50051a5](https://github.com/user-attachments/assets/eeabf5ad-f859-4e81-800d-decd52e7d67a)
 
 
 # COMMUNICTION DIAGRAM:
@@ -97,6 +98,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![378048184-ebae6d4b-761b-4f1a-aaf3-49b329402259](https://github.com/user-attachments/assets/954f5cb8-700b-4fa0-baed-2bd137558eea)
 
 
 
@@ -117,6 +119,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+![378048204-2ad54406-25d7-4af1-af3a-3e466597e27b](https://github.com/user-attachments/assets/08146722-f1aa-4c51-8746-076e0a5bd3b3)
 
 
 
